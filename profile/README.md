@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/XFT-GmbH/.github/blob/main/icons/xft.svg" alt="ui5" width="1200" height="1200"/>
+<img align="center" src="https://github.com/XFT-GmbH/.github/blob/main/icons/xft.svg" alt="xft"/>
 
 
 <img align="center" src="https://github.com/XFT-GmbH/.github/blob/main/icons/ui5.svg" alt="ui5" width="80" height="80"/>
