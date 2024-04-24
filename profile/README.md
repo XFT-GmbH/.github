@@ -1,4 +1,10 @@
 <h1 align="center">XFT GmbH</h1>
+
+<img align="center" src="./../icons/ui5.svg" alt="ui5" width="80" height="80"/>
+
+
+
+
 <h3>TASK</h3>
 
 [Task A01 Wrapper](https://github.com/XFT-GmbH/zxfttmtaska01wrapper)
