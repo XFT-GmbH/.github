@@ -7,3 +7,6 @@
 
 [PPAP_CORE](https://github.com/XFT-GmbH/ppap_core_import)
 
+<h3>PEM</h3>
+
+[PEM_CORE](https://github.com/XFT-GmbH/comxfthrpemcore)
