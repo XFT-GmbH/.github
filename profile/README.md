@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://github.com/XFT-GmbH/.github/blob/main/icons/xft.svg" alt="xft"/>
+  <a href="https://www.xft.com/"><img align="center" src="https://github.com/XFT-GmbH/.github/blob/main/icons/xft.svg" alt="xft"/></a>
 
 
 <!--<img align="center" src="https://github.com/XFT-GmbH/.github/blob/main/icons/ui5.svg" alt="ui5" width="80" height="80"/>-->
