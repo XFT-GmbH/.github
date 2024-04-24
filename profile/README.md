@@ -5,5 +5,5 @@
 
 <h3>PPAP</h3>
 
-[PPAP](https://github.com/XFT-GmbH/ppap_core_import)
+[PPAP_CORE](https://github.com/XFT-GmbH/ppap_core_import)
 
