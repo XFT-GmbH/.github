@@ -10,7 +10,7 @@
                 }
             
             </style>
-            <h1 class="textcolor">XFT GmbH</h1>
+            <h1 style="font-family: Arial, Verdana" class="textcolor">XFT GmbH</h1>
         </div>
     </foreignObject>
 </svg>
