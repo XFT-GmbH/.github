@@ -1,16 +1,16 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 180 60" width="60" height="40"  xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             
               .textcolor {
-                 background-image:linear-gradient(90deg,blue,yellow,red,purple);
+                 background-image:linear-gradient(90deg,purple,blue);
                  -webkit-background-clip: text;
                  -webkit-text-fill-color: transparent;
                 }
             
             </style>
-            <h4 class="textcolor">XFT GmbH</h4>
+            <h1 class="textcolor">XFT GmbH</h1>
         </div>
     </foreignObject>
 </svg>
