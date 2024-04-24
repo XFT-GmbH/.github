@@ -4,7 +4,7 @@
             <style>
             
               .textcolor {
-                 background-image:linear-gradient(90deg,purple,blue);
+                 background-image:linear-gradient(90deg,#5f3295,#0089d1);
                  -webkit-background-clip: text;
                  -webkit-text-fill-color: transparent;
                 }
