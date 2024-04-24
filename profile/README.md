@@ -2,6 +2,9 @@
 
 <img align="center" src="https://github.com/XFT-GmbH/.github/blob/main/icons/ui5.svg" alt="ui5" width="80" height="80"/>
 
+<img align="center" src="https://github.com/XFT-GmbH/.github/blob/main/icons/xft.svg" alt="ui5" width="80" height="80"/>
+
+
 <h3>TASK</h3>
 
 [Task A01 Wrapper](https://github.com/XFT-GmbH/zxfttmtaska01wrapper)
