@@ -5,16 +5,12 @@
 <!--<img align="center" src="https://github.com/XFT-GmbH/.github/blob/main/icons/ui5.svg" alt="ui5" width="80" height="80"/>-->
 
 
-<h3>TASK</h3>
+<h3>XFC M</h3>
 
-[Task A01 Wrapper](https://github.com/XFT-GmbH/zxfttmtaska01wrapper)
+[XFC M Library](https://github.com/XFT-GmbH/com.xfc.m)
 
-<h3>PPAP</h3>
+<h3>XFC UI</h3>
 
-[PPAP_CORE](https://github.com/XFT-GmbH/comxftppapcore)
-
-<h3>PEM</h3>
-
-[PEM_CORE](https://github.com/XFT-GmbH/comxfthrpemcore)
+[XFC UI Library](https://github.com/XFT-GmbH/com.xfc.ui)
 
 </div>
