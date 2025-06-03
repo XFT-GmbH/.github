@@ -5,6 +5,6 @@
 <br>
 [XFC UI Library](https://github.com/XFT-GmbH/com.xfc.ui)
 <br>
-[XFC TASK A01](https://github.com/XFT-GmbH/com.xfc.tm.task.a01])
+[XFC TASK A01](https://github.com/XFT-GmbH/com.xfc.tm.task.a01)
 
 </div>
